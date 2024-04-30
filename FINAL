@@ -1,0 +1,175 @@
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <link rel="icon" type="image" /svg+xml" href="/vite.svg">
+  <meta name="viewport" content="width=device-width,initial-scale=1.0">
+  <title>planets</title>
+  <script type="module" crossorigin src="/assets/index-f1d1730f.js"></script>
+  <link rel="stylesheet" href="/assets/index-5a79d5c6.css">
+</head>
+
+<body>
+  <div <id="root">
+    <div class="main">
+      <div class="headerAndNavBar"> $0
+        <h1>THE PLANETS</h1>
+        <div class="burgerMenu">
+          <div class="hamburger-menu">
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="21" style="opacity: 1;">
+              <g fill="#FFF" fill-rule="evenodd">
+                <path d="M0 0h24v3H0zM0 7h24v3H0zM0 14h24v3H0zm0"></path>
+              </g>
+            </svg>"
+          </div>
+        </div>
+        <div class="headMenu">
+          <div class__links">
+            <div class="menuPlanets">
+              <div class="rectangleForPC" style="background-color: rgb" (65, 158, 187);"></div>"
+              <a href="#/planets/Mercury."
+                style="text-decoration: none; display: flex; justify-content: space-between;"> $0
+                <h3>Mercury</h3>
+              </a>
+            </div>
+            <div class="menuPlanets">
+              <div class="rectangleForPC" style="background-color: transparent;"></div>
+              <a href="#/planets/Venus" style="text-decoration: none; display: flex; justify-content: space-between;">
+                $0
+                <h>Venus</h>
+              </a>
+            </div>
+            <div class="menuPlanets">
+              <div class="rectangleForPC" style="background-color: transparent;"></div>
+              <a href="#/PLANETS/Earth" style="text-decoration: none; display: flex; justify-content: space-between;">$0
+                <h3>Earth</h3>
+              </a>
+            </div>
+            <div class="menuPlanets">
+              <div class="rectangleForPC" style="background-color: transparent;"></div>
+              <a href="#/PLANETS/Mars" style="text-decoration: none; display: flex; justify-content: space-between;">$0
+                <h3>Mars</h3>
+              </a>
+            </div>
+            <div class="menuPlanets">
+              <div class="rectangleForPC" style="background-color: transparent;"></div>
+              <a href="#/PLANETS/Jupiter"
+                style="text-decoration: none; display: flex; justify-content: space-between;">$0
+                <h3>Jupiter</h3>
+              </a>
+            </div>
+            <div class="menuPlanets">
+              <div class="rectangleForPC" style="background-color: transparent;"></div>
+              <a href="#/PLANETS/Saturn"
+                style="text-decoration: none; display: flex; justify-content: space-between;">$0
+                <h3>Saturn</h3>
+              </a>
+            </div>
+            <div class="menuPlanets">
+              <div class="rectangleForPC" style="background-color: transparent;"></div>
+              <a href="#/PLANETS/Uranus"
+                style="text-decoration: none; display: flex; justify-content: space-between;">$0
+                <h3>Uranus</h3>
+              </a>
+            </div>
+            <div class="menuPlanets">
+              <div class="rectangleForPC" style="background-color: transparent;"></div>
+              <a href="#/PLANETS/Neptune"
+                style="text-decoration: none; display: flex; justify-content: space-between;">$0
+                <h3>Neptune</h3>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+      <hr class="mainHr">
+      <div class="headOption">
+        <div class="headInfo">
+          <div class="option" style="--color: #419EBB;">
+            <p class="number">01</p>
+            <h1>Overview</h1>
+            <div class="rectungle"></div>
+          </div>
+          <div class="option" style="--color: #419EBB;">
+            <p class="number">02</p>
+            <h1>
+              <span>Internal</span>
+              "Structure"
+            </h1>
+            <div class="rectungle"></div>
+          </div>
+          <div class="option" styl="--color: #419EBB;">
+            <p class="number">03</p>
+            <h1>
+              "Surface"
+              <span>Geology</span>
+            </h1>
+            <div class="rectungle"></div>
+          </div>
+        </div>
+      </div>
+      <hr class="mainHr">
+      <div class="middleDiv" style="display: flex;">
+        <img class="mainImg" src="https://planets-fact-site-whro.vercel.app/assets/planet-mercury.svg" alt></img>
+        <div class="textAndOptions">
+          <div class="textAndSource">
+            <h1 class="planetName">Mercury</h1>
+            <p class="textContent">"Mercury is the smallest planet in the Solar System and the closest to the Sun. Its
+              orbit around the Sun takes 87.97 Earth days, the shortest of all the Sun's planets. Mercury is one of four
+              terrestrial planets in the Solar System, and is a rocky body like Earth.
+            </p>
+            <div style="display: flex;">
+              <p class="source">Source:</p>
+              <a class="source" href="https://en.wikipedia.org/wiki/Mercury_(planet)">Wikipedia</a>
+              <img src="/src/assets/icon-source.svg" alt style="margin-left: 4px;">
+            </div>
+          </div>
+          <div class="options">
+            <div class="headInfo">
+              <div class="option" style="--color: #419EBB">
+                <p class="number">01</p>
+                <h1>Overview</h1>
+                <div class="rectungle"></div>
+              </div>
+              <div class="option" style="--color: #419EBB">
+                <p class="number">02</p>
+                <h1>
+                  <span>Internal</span>
+                  "Structure"
+                </h1>
+                <div class="rectungle"></div>
+              </div>
+              <div class="option" style="--color: #419EBB;">
+                <p class="number">03</p>
+                <h1>
+                  "Surface"
+                  <span>Geology</span>
+                </h1>
+                <div class="rectungle"></div>
+              </div>
+            </div>
+          </div>
+          <div class="info">
+            <div class="infoContainer">
+              <p class="infoText">ROTATION TIME</p>
+              <p class="infoNumber">58.6 Days</p>
+            </div>
+            <div class="infoContainer">
+              <p class="infoText">TEVOLUTION TIME</p>
+              <p class="infoNumber">87.97 Days</p>
+            </div>
+            <div class="infoContainer">
+              <p class="infoText">RADIUS</p>
+              <p class="infoNumber">2439.7 KM</p>
+            </div>
+            <div class="infoContainer">
+              <p class="infoText">AVARAGE TEMP.</p>
+              <p class="infoNumber">430 c</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</body>
+</html>
